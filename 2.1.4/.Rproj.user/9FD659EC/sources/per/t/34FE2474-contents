@@ -126,6 +126,4 @@ pheatmap(
   main = "Tumor transcriptome: logCPM Z-score heatmap" 
 )
 dev.off()
-######
-# 7. 根据 heatmap 判断样本聚类(笔记)
-######
+
